@@ -671,4 +671,41 @@ into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
+<https://www.gnu.org/licenses/why-not-lgpl.html>. <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Web Personnelle de [Ton Nom]</title>
+</head>
+<body>
+    <header>
+        <h1>Page Web Personnelle de [Ton Nom]</h1>
+    </header>
+
+    <section>
+        <h2>Biographie</h2>
+        <p>Je suis passionné par la cuisine et j'ai un intérêt particulier pour la préparation de burgers, kebabs, tacos, wraps et paninis. Mon objectif est de créer des plats exceptionnels et de perfectionner mes compétences culinaires pour devenir célèbre dans le domaine de la gastronomie.</p>
+    </section>
+
+    <section>
+        <h2>Objectifs</h2>
+        <p>Mon objectif principal est de devenir un chef renommé en créant une cuisine de haute qualité à des prix différents et élevés. Je suis également déterminé à terminer le jeu GTA 5, un de mes centres d'intérêt.</p>
+    </section>
+
+    <section>
+        <h2>Réseaux Sociaux</h2>
+        <p>Je partage mes créations culinaires sur TikTok. Suivez-moi pour découvrir mes recettes uniques et mes techniques de cuisine !</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Pour toute question ou collaboration, n'hésitez pas à me contacter via ce <a href="#">formulaire de contact</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 [Ton Nom]. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
+
